@@ -1,4 +1,3 @@
-//package headfirst.state.gumballstate;
 
 import java.util.Random;
 
